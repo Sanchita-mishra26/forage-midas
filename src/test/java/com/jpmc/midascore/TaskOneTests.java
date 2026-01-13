@@ -13,7 +13,7 @@ class TaskOneTests {
     void task_one_verifier() throws InterruptedException {
         Thread.sleep(2000);
         logger.info("----------------------------------------------------------");
-        logger.info("----------------------------------------------------------");
+        logger.info("----   ------------------------------------------------------");
         logger.info("----------------------------------------------------------");
         logger.info("Congrats! It looks like your application booted without issue");
         logger.info("submit the following output to complete the task (include begin and end output denotations)");
